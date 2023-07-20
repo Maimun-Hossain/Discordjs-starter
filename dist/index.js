@@ -44,5 +44,5 @@ client.on('messageCreate', async (message) => {
         }
     }
 });
-client.login(token);
+client.login(00);
 //# sourceMappingURL=index.js.map
